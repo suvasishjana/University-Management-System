@@ -26,7 +26,7 @@ public class About extends JFrame {
         name.setFont(new Font("Tahoma", Font.BOLD, 30));
         add(name);
         
-        JLabel rollno = new JLabel("College: wami Vivekenanda University");
+        JLabel rollno = new JLabel("College: Swami Vivekenanda University");
         rollno.setBounds(70, 280, 550, 40);
         rollno.setFont(new Font("Tahoma", Font.PLAIN, 30));
         add(rollno);
